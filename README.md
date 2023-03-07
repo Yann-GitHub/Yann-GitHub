@@ -1,7 +1,7 @@
 Hi, I'm Yann 👋
 =======================================================================================================================================
 
-I'm JavaScript-React application developer. I'm currently completing internship at OpenClassrooms to earn bachelor degree diploma in Front-End development.
+I'm JavaScript-React application developer. I'm currently completing internship at OpenClassrooms to get bachelor degree diploma in Front-End development.
 -------------------------------------------------------------------
 
 xxxxx xxxx x xxx. xx x x xxx. xx. x x xxxxxxx.
