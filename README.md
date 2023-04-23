@@ -16,9 +16,9 @@ xxx x x xxx x xxxxx xxx xx xx. xxxxxx xx x x xxxxxx
 
 ### Projects done
 
-Check out my latest web development projects on my portfolio website:
+Check out my latest web development projects :
 
-https://www.xxxx.com
+https://github.com/Yann-GitHub?tab=repositories(https://github.com/Yann-GitHub?tab=repositories)
 
 ### Skills
 
