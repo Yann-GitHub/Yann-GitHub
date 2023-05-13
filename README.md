@@ -1,4 +1,4 @@
-# I'm Yann, welcome to my GitHub profile 👋
+# Hello and Welcome 👋, I'm Yann
 
 ## I am a JavaScript-React application developer. I am currently completing a training program at OpenClassrooms to obtain a bachelor's degree in Front-End development.
 
@@ -8,11 +8,13 @@ xxx xx x x xxx x xxxxxxx xxxxx xxx x x xxx x x
 
 xxx x x xxx x xxxxx xxx xx xx. xxxxxx xx x x xxxxxx 
 
-*   🗣   I fluently speak French, English and Indonesian
+*   🗣  I fluently speak French, English and Indonesian
 *   ✉️  You can contact me at [ybarlet@gmail.com](mailto:ybarlet@gmail.com)
 *   🧠  I'm learning Front-end dev, React framework and Redux
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I'm based in France at the moment
+*   📚  I'm constantly learning new skills and _striving for progress_
+*   🏆  Goal: Be the person I needed when I was younger
 
 ### Projects done
 
