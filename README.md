@@ -1,28 +1,23 @@
 # Hello and Welcome 👋, I'm Yann
 
-## I am a JavaScript-React application developer. I am currently completing a training program at OpenClassrooms to obtain a bachelor's degree in Front-End development.
+## I'm a JavaScript-React application developer currently undergoing a training program at OpenClassrooms to obtain a bachelor's degree in web development.
 
-xxxxx xxxx x xxx. xx x x xxx. xx. x x xxxxxxx.
-xxx x x xxx x x xxx x x x. xx x x x. x x xx x xx xx xx xx xx xx xxxxxx xxxx xxx 
-xxx xx x x xxx x xxxxxxx xxxxx xxx x x xxx x x
+I have a passion for crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skills and knowledge. My focus areas include front-end development, the React framework, and Redux.
 
-xxx x x xxx x xxxxx xxx xx xx. xxxxxx xx x x xxxxxx 
+Here are some key points about me:
 
-*   🗣  I fluently speak French, English and Indonesian
-*   ✉️  You can contact me at [ybarlet@gmail.com](mailto:ybarlet@gmail.com)
-*   🧠  I'm learning Front-end dev, React framework and Redux
-*   🤝  I'm open to collaborating on creating web applications
-*   🌍  I'm based in France at the moment
-*   📚  I'm constantly learning new skills and _striving for progress_
+*   🧠  I'm actively learning Front-end development, React framework, and Redux.
+*   🤝  I'm open to collaborating on web application projects.
+*   🌍  I'm based in France at the moment.
+*   📚  I'm constantly learning new skills and striving for progress.
+*   🗣  I'm fluent in French, English, and Indonesian.
 *   🏆  Goal: Be the person I needed when I was younger
 
 ### Projects done
-
-Check out my latest web development projects :
-
-https://github.com/Yann-GitHub?tab=repositories
+You can explore my latest web development projects on my GitHub account.
 
 ### Skills
+I have expertise in the following technologies and tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -38,7 +33,4 @@ https://github.com/Yann-GitHub?tab=repositories
 </p>
 
 
-### Socials & other accounts
-
-<p align="left"> <a href="https://discord.com/users/542714272741064734" target="_blank" rel="noreferrer" title="Discord"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Yann-GitHub" target="_blank" rel="noreferrer" title="GitHub"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yann-barlet-211491152/" target="_blank" rel="noreferrer"  title="LinkedIn"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/169856/yann.b" target="_blank" rel="noreferrer"  title="StackOverflow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://twitter.com/MrLoGodeN" target="_blank" rel="noreferrer" title="Twitter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCYG0qSolJpl_I3O8w" target="_blank" rel="noreferrer" title="YouTube"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://codepen.io/xxx" target="_blank" rel="noreferrer" title="CodePen"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-</p>
+Feel free to reach out to me for any collaboration or project opportunities. Let's create something amazing together!
