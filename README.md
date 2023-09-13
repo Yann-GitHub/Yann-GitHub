@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Yann
 
-## I'm a JavaScript-React developer currently undergoing a training program at OpenClassrooms to obtain a bachelor's degree.
+## I'm a Front-End Developer
 
 I have a passion for crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skills and knowledge. My focus areas include front-end development, the React framework, and Redux.
 
@@ -11,7 +11,6 @@ Here are some key points about me:
 *   🌍  I'm currently based in France.
 *   📚  I'm constantly learning new skills and striving for progress.
 *   🗣  I'm fluent in French, English, and Indonesian.
-*   🏆  Goal: Be the person I needed when I was younger
 
 ### Projects done
 You can explore my latest web development projects on my GitHub account.
