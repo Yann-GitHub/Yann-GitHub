@@ -1,12 +1,12 @@
 # Hello and Welcome 👋, I'm Yann
 
-## I'm a Front-End Developer
+## I'm a Developer
 
-I have a passion for crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skills and knowledge. My focus areas include front-end development, the React framework, and Redux.
+I have a passion for crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skills and knowledge. My focus areas include front-end development and related frameworks.
 
 Here are some key points about me:
 
-*   🧠  I'm actively learning Front-end development, React framework, and TypeScript.
+*   🧠  I'm actively learning database management.
 *   🤝  I'm open to collaborating on web application projects.
 *   🌍  I'm currently based in France.
 *   📚  I'm constantly learning new skills and striving for progress.
