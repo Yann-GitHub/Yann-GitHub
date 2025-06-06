@@ -1,19 +1,19 @@
 # Hello and Welcome 👋, I'm Yann
 
-## I'm a Developer
+## Full Stack Developer | Web Enthusiast
 
-I have a passion for crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skills and knowledge. My focus areas include front-end development and related frameworks.
+Passionate about building engaging and user-friendly web applications with clean, efficient code. Strong foundation in HTML, CSS, and JavaScript, continuously expanding my skills in modern web technologies.
 
-Here are some key points about me:
+Key Highlights:
 
-*   🧠  I'm actively learning database management.
-*   🤝  I'm open to collaborating on web application projects.
-*   🌍  I'm currently based in France.
-*   📚  I'm constantly learning new skills and striving for progress.
-*   🗣  I'm fluent in French, English, and Indonesian.
+*   🧠  Actively learning advanced database management
+*   🤝  Open to collaborating on innovative web projects
+*   🌍  Currently based in Indonesia
+*   📚  Committed to lifelong learning and skill development
+*   🗣  Fluent in French, English, and Indonesian
 
-### Projects done
-You can explore my latest web development projects on my GitHub account.
+### Recent Projects
+Explore my latest public web development work on my GitHub portfolio.
 
 ### Skills
 I have expertise in the following technologies and tools:
